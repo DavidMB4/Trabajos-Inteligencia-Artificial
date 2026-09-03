@@ -11,6 +11,11 @@
 - **Contar islas**
   [Código para contar islas](./contar_islas.py)
 
+## Ejercicio de A\* clase 01/09/2026
+
+Captura de ejercicio de A\*
+<img src="./imagenes/ejercicioA_asterisco.jpeg" alt="Imagen 1 para el orden" width="600" height="900" style="margin-right: 20px;">
+
 ## Evalución A\* clase - 03/09/2026
 
 Captura del ejericico en clase de A\*

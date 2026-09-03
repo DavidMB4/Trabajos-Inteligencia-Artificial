@@ -10,3 +10,8 @@
 
 - **Contar islas**
   [Código para contar islas](./contar_islas.py)
+
+## Evalución A\* clase - 03/09/2026
+
+Captura del ejericico en clase de A\*
+<img src="./imagenes/EvaluacionA_asterisco.png" alt="Imagen 1 para el orden" width="900" height="400" style="margin-right: 20px;">

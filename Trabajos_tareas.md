@@ -144,3 +144,8 @@ _¿Qué riesgos tendría?_
 _¿Consideraría posible utilizar ambos modelos dentro del mismo sistema?_
 
 Tomaría el árbol de decisiones, ya que se le podría explicar de mejor manera al cliente el rechazo. El riesgo es que puede perder algunos clientes que si pudieron haber cumplido con los requisitos. Si sería recomendable usar los, podrían usarse los 2 a la vez, usar principalmente la red por su precisión y dependiendo el resultado que arroje usar el árbol, para basarse en el porqué de este y explicar al cliente.
+
+## Actividad en clase filtro Kernel de convolución
+
+Captura del ejericico de Kernel de convolución
+<img src="./imagenes/Kernel1.jpeg" alt="Kernel de convolución con filtro 1" width="500" height="850" style="margin-right: 20px;">

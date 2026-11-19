@@ -1,0 +1,21 @@
+# ==========================================
+# Ignorar videos (pesados)
+# ==========================================
+*.mp4
+*.avi
+*.mkv
+*.mov
+
+# ==========================================
+# Ignorar EXCLUSIVAMENTE el dataset de rostros
+# (Las imágenes en la carpeta 'imagenes/' para los .md SÍ se conservan)
+# ==========================================
+**/dataset/
+
+# ==========================================
+# Ignorar modelos entrenados pesados (.xml)
+# (El clasificador haarcascade sí se conserva)
+# ==========================================
+**/modelo_*.xml
+__pycache__/
+*.py[cod]
